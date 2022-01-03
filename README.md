@@ -1,4 +1,5 @@
-# cryptoApp
+# cryptoApp VUE 3
+Приложение для получения и фильтрации данных с min-api.cryptocompare.com
 
 ## Project setup
 
